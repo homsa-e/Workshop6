@@ -1,6 +1,3 @@
-/// In addition to while and for loops C++ has do .. while loop.
-/// It may be convenient eg in the following case:
-
 #include <iostream>
 #include <fstream>
 #include <sstream>
